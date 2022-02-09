@@ -1,5 +1,14 @@
-![Screenshot (14)](https://user-images.githubusercontent.com/64851662/123985915-7b0a2c80-d9e3-11eb-8c75-cc4a7ae61216.png)
-![Screenshot (15)](https://user-images.githubusercontent.com/64851662/123985937-81000d80-d9e3-11eb-83ed-013546aa3121.png)
-![Screenshot (16)](https://user-images.githubusercontent.com/64851662/123985949-83626780-d9e3-11eb-8f84-f63430a4d3b4.png)
-# lorukiReplica
-I tried
+<p align="Right">
+  <img width="100" height="100" src="Media/Images/Logos/Merudata_Logo1.png">
+</p>
+
+[Back](README.md)
+
+# Need Help?
+
+Here, you will find all the resources you will need while using Meru Data Governance Products.
+
+Browse through the topics to find solutions for frequently experienced problems, how-to guides, tips and tricks, and more.
+
+
+[<img width="330" height="400" src="Media/Images/Icons/Help_User_Icon.gif">](README.md)   [<img width="330" height="400" src="Media/Images/Icons/Help_Admin_Icon.gif">](README.md)   [<img width="330" height="400" src="Media/Images/Icons/Help_Troubleshooting_Icon.gif">](README.md)
