@@ -1,5 +1,5 @@
 <p align="Right">
-  <img width="100" height="100" src="Media/Images/Logos/Merudata_Logo1.png">
+  logo
 </p>
 
 [Back](README.md)
@@ -11,4 +11,4 @@ Here, you will find all the resources you will need while using Meru Data Govern
 Browse through the topics to find solutions for frequently experienced problems, how-to guides, tips and tricks, and more.
 
 
-[<img width="330" height="400" src="Media/Images/Icons/Help_User_Icon.gif">](README.md)   [<img width="330" height="400" src="Media/Images/Icons/Help_Admin_Icon.gif">](README.md)   [<img width="330" height="400" src="Media/Images/Icons/Help_Troubleshooting_Icon.gif">](README.md)
+[NAME](README.md)  
