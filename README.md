@@ -13,4 +13,4 @@ Here, you will find all the resources you will need while using Meru Data Govern
 Browse through the topics to find solutions for frequently experienced problems, how-to guides, tips and tricks, and more.
 
 
-[NAME](lorukiReplica/DUMMY.md)  
+[NAME](DUMMY.md)  
